@@ -1,0 +1,1 @@
+This was a codecademy project for creating API requests. I am keeping this project for future reference.
