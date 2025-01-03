@@ -1,1 +1,2 @@
 This was a codecademy project for creating API requests. I am keeping this project for future reference.
+More about this project [Film Finder](https://www.codecademy.com/journeys/front-end-engineer/paths/fecj-22-front-end-development/tracks/fecj-22-async-javascript-and-http-requests/modules/wdcp-22-learn-javascript-syntax-requests-11c9fdeb-dedf-4f69-baca-39576c4a42c3/projects/js-film-finder)
